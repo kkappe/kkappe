@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkappe
-- 👀 I’m interested in figuring out the best use of github
+- 👀 I’m interested in figuring out the best use of github and playing around with Twine
 - 🌱 I’m currently learning game-based learning
 - 💞️ I’m looking to collaborate on – check back later
 - 📫 How to reach me linkedin.com/in/karenkappe
