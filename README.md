@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kkappe
-- 👀 I’m interested in figuring out the best use of github and playing around with Twine
-- 🌱 I’m currently learning game-based learning
-- 💞️ I’m looking to collaborate on – check back later
-- 📫 How to reach me linkedin.com/in/karenkappe
+- 👀 I’m interested in creating fun games that build communication skills for tweens and adults.
+- 🌱 I’m currently working as a designer and teacher.
+- 💞️ I’m looking to collaborate on best practices for designing decision trees used in games.
+- 📫 How to reach me karen.kappe((at))gmail.com
 
 <!---
 kkappe/kkappe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
